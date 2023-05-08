@@ -1,4 +1,4 @@
-# Python _ Movies_Correlation Analysis
+# Movies_Correlation Analysis
 
 Using a dataset from Kaggle, I will perfom a small correlation analysis between the gross revenue of a movie and its features.
 The dataset gathers various information about movies (name,	rating, genre, release date, director, budget...)
